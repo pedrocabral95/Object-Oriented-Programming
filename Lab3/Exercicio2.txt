@@ -1,0 +1,60 @@
+
+Comemnts can be code more readable
+
+private int total;	--> has to be more specific, like totalSum
+ 					--> _total , it's a class atribute
+
+public ComputeSum(int t) ---> int t should be more specific, int initialT...
+
+total = t; ---> _total = inital_t
+
+vectorSum (int[] my_vector) --> Spaces should not exist in methods
+
+my_vector --> bad example to initialize a variable ---> myVector
+
+i < my_vector.length --> this comparison uses a lot of time --> set a variable : myVectoLen = myVector.length
+
+get_Total() --> getTotal
+
+private void SetTotal(int NewTotal) --> public
+									--> setTotal
+									--> newTotal
+
+Code resolution
+
+import java.lang.Integer;
+
+public class ComputeSum
+{
+  public static ComputeSum _sum = null;//Fixed
+  
+ 	private int _totalSum;
+
+  	public ComputeSum(int total)
+  	{
+    	_totalSum = total;
+  	}
+
+	// compute sum of the elements in the vector
+ 	public void vectorSum(int[] myVector) 
+ 	{
+    	int i = 0;
+    	_totalSum = 0;
+    	myVectorLen = myVector.length;
+
+    	while (i < myVectorLen) 
+    	{
+      		_totalSum += myVector[i++];
+    	}       
+  	}
+
+  	public int getTotal()
+  	{
+    	return _totalSum;
+  	}
+
+  	public void setTotal(int newTotal)
+  	{
+   		_totalSum = newTotal;
+  	}
+}
