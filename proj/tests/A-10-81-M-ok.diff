@@ -1,0 +1,21 @@
+*** tests/A-10-81-M-ok.out	2018-12-07 12:26:49.000000000 +0000
+--- tests/A-10-81-M-ok.outhyp	2018-12-15 02:10:35.899093963 +0000
+***************
+*** 4,12 ****
+  3 - Portal Pessoal
+  5 - Portal do Estudante
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Pode preencher inquérito do projecto P5 da disciplina D1
+! Resultados do inquérito do projecto P4 da disciplina D1
+! Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal
+--- 4,10 ----
+  3 - Portal Pessoal
+  5 - Portal do Estudante
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal

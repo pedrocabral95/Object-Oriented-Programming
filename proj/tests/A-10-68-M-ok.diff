@@ -1,0 +1,19 @@
+*** tests/A-10-68-M-ok.out	2018-12-05 18:19:23.000000000 +0000
+--- tests/A-10-68-M-ok.outhyp	2018-12-15 02:10:33.235087517 +0000
+***************
+*** 15,21 ****
+  2 - Preencher inquérito
+  3 - Ver resultados de inquérito
+  0 - Sair
+! Escolha uma opção: Nome da disciplina: Nome do projecto: Número de horas de trabalho: Comentário ao projecto: Preencher inquérito: Operação inválida: O projecto 'P5' da disciplina 'D1' não tem inquérito associado.
+  Portal do Estudante
+  1 - Entregar projecto
+  2 - Preencher inquérito
+--- 15,21 ----
+  2 - Preencher inquérito
+  3 - Ver resultados de inquérito
+  0 - Sair
+! Escolha uma opção: Nome da disciplina: Nome do projecto: Número de horas de trabalho: Comentário ao projecto: Preencher inquérito: Operação inválida: O projecto 'P5' não existe na disciplina 'D1'.
+  Portal do Estudante
+  1 - Entregar projecto
+  2 - Preencher inquérito

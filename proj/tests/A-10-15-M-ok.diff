@@ -1,0 +1,22 @@
+*** tests/A-10-15-M-ok.out	2018-12-03 22:36:38.000000000 +0000
+--- tests/A-10-15-M-ok.outhyp	2018-12-17 09:52:50.441364785 +0000
+***************
+*** 16,21 ****
+--- 16,22 ----
+  3 - Ver submissões de um projecto
+  4 - Ver alunos de disciplina leccionada
+  5 - Ver resultados de um inquérito
++ 6 - Remover aluno de Disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: Nome do projecto: D1 - P1 (por abrir)
+  Portal do Docente
+***************
+*** 24,29 ****
+--- 25,31 ----
+  3 - Ver submissões de um projecto
+  4 - Ver alunos de disciplina leccionada
+  5 - Ver resultados de um inquérito
++ 6 - Remover aluno de Disciplina
+  0 - Sair
+  Escolha uma opção: Menu principal
+  1 - Abrir

@@ -1,0 +1,71 @@
+*** tests/A-10-59-M-ok.out	2018-12-03 22:36:38.000000000 +0000
+--- tests/A-10-59-M-ok.outhyp	2018-12-15 02:10:31.395083070 +0000
+***************
+*** 21,28 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P1 (aberto)
+- D1 - P2 (aberto)
+- D1 - P4 (aberto)
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 21,26 ----
+***************
+*** 31,38 ****
+  5 - Finalizar inquérito
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+! Escolha uma opção: Nome da disciplina: Nome do projecto: Abrir inquérito: Operação inválida: Problema ao abrir o inquérito do projecto 'P2' da disciplina 'D1'.
+! Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+  3 - Abrir inquérito
+--- 29,35 ----
+  5 - Finalizar inquérito
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+! Escolha uma opção: Nome da disciplina: Nome do projecto: Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+  3 - Abrir inquérito
+***************
+*** 41,48 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P1 (aberto)
+- D1 - P2 (aberto)
+- D1 - P4 (aberto)
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 38,43 ----
+***************
+*** 51,58 ****
+  5 - Finalizar inquérito
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+! Escolha uma opção: Nome da disciplina: Nome do projecto: Abrir inquérito: Operação inválida: Problema ao abrir o inquérito do projecto 'P2' da disciplina 'D1'.
+! Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+  3 - Abrir inquérito
+--- 46,52 ----
+  5 - Finalizar inquérito
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+! Escolha uma opção: Nome da disciplina: Nome do projecto: Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+  3 - Abrir inquérito
+***************
+*** 61,68 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P1 (aberto)
+- D1 - P2 (aberto)
+- D1 - P4 (aberto)
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 55,60 ----

@@ -1,0 +1,41 @@
+*** tests/A-10-88-M-ok.out	2018-12-07 18:33:34.000000000 +0000
+--- tests/A-10-88-M-ok.outhyp	2018-12-15 02:10:37.307097374 +0000
+***************
+*** 21,30 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P0 (aberto)
+- D1 - P1 - 1 respostas - 1 horas
+- D1 - P2 (aberto)
+- D1 - P4 - 0 respostas - 0 horas
+- D1 - P5 - 3 respostas - 30 horas
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 21,26 ----
+***************
+*** 42,51 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P0 (aberto)
+- D1 - P1 - 1 respostas - 1 horas
+- D1 - P2 (fechado)
+- D1 - P4 - 0 respostas - 0 horas
+- D1 - P5 - 3 respostas - 30 horas
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 38,43 ----
+***************
+*** 63,72 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P0 (aberto)
+- D1 - P1 - 1 respostas - 1 horas
+- D1 - P2 (aberto)
+- D1 - P4 - 0 respostas - 0 horas
+- D1 - P5 - 3 respostas - 30 horas
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 55,60 ----

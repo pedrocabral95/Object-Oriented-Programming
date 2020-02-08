@@ -1,0 +1,19 @@
+*** tests/A-10-87-M-ok.out	2018-12-07 12:42:48.000000000 +0000
+--- tests/A-10-87-M-ok.outhyp	2018-12-15 02:10:37.111096899 +0000
+***************
+*** 20,26 ****
+  5 - Finalizar inquérito
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+! Escolha uma opção: Nome da disciplina: Nome do projecto: Abrir inquérito: Operação inválida: Problema ao abrir o inquérito do projecto 'P3' da disciplina 'D2'.
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 20,26 ----
+  5 - Finalizar inquérito
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+! Escolha uma opção: Nome da disciplina: Nome do projecto: Abrir inquérito: Operação inválida: A disciplina 'D2' não existe ou não é válida para o utilizador em causa.
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito

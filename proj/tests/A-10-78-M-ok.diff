@@ -1,0 +1,40 @@
+*** tests/A-10-78-M-ok.out	2018-12-10 12:30:36.000000000 +0000
+--- tests/A-10-78-M-ok.outhyp	2018-12-15 02:10:35.259092413 +0000
+***************
+*** 4,12 ****
+  3 - Portal Pessoal
+  4 - Portal do Docente
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Pode preencher inquérito do projecto P5 da disciplina D1
+! Resultados do inquérito do projecto P4 da disciplina D1
+! Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal
+--- 4,10 ----
+  3 - Portal Pessoal
+  4 - Portal do Docente
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal
+***************
+*** 21,28 ****
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: Nome do projecto: D1 - P4
+   * Número de submissões: 0
+!  * Número de respostas: 0
+!  * Tempos de resolução (horas) (mínimo, médio, máximo): 0, 0, 0
+  Portal do Docente
+  1 - Criar projecto
+  2 - Fechar projecto
+--- 19,26 ----
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: Nome do projecto: D1 - P4
+   * Número de submissões: 0
+!  * Número de respostas: 1
+!  * Tempos de Resolução (horas) (mínimo, médio, máximo): 0, 3, 3
+  Portal do Docente
+  1 - Criar projecto
+  2 - Fechar projecto

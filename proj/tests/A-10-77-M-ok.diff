@@ -1,0 +1,59 @@
+*** tests/A-10-77-M-ok.out	2018-12-07 18:33:30.000000000 +0000
+--- tests/A-10-77-M-ok.outhyp	2018-12-15 02:10:35.059091928 +0000
+***************
+*** 5,12 ****
+  5 - Portal do Estudante
+  6 - Portal do Delegado
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Pode preencher inquérito do projecto P5 da disciplina D1
+! Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal
+--- 5,11 ----
+  5 - Portal do Estudante
+  6 - Portal do Delegado
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal
+***************
+*** 22,31 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P0 (por abrir)
+- D1 - P1 - 1 respostas - 1 horas
+- D1 - P2 (aberto)
+- D1 - P4 (aberto)
+- D1 - P5 (aberto)
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 21,26 ----
+***************
+*** 51,60 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P0 (por abrir)
+- D1 - P1 - 1 respostas - 1 horas
+- D1 - P2 (aberto)
+- D1 - P4 - 0 respostas - 0 horas
+- D1 - P5 (aberto)
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 46,51 ----
+***************
+*** 141,150 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P0 (por abrir)
+- D1 - P1 - 1 respostas - 1 horas
+- D1 - P2 (aberto)
+- D1 - P4 - 0 respostas - 0 horas
+- D1 - P5 - 1 respostas - 10 horas
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 132,137 ----

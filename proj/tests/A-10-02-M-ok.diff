@@ -1,0 +1,32 @@
+*** tests/A-10-02-M-ok.out	2018-12-03 22:36:38.000000000 +0000
+--- tests/A-10-02-M-ok.outhyp	2018-12-17 09:52:47.681371865 +0000
+***************
+*** 10,15 ****
+--- 10,16 ----
+  3 - Ver submissões de um projecto
+  4 - Ver alunos de disciplina leccionada
+  5 - Ver resultados de um inquérito
++ 6 - Remover aluno de Disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: Nome do projecto: Ver submissões de um projecto: Operação inválida: A disciplina 'd1' não existe ou não é válida para o utilizador em causa.
+  Portal do Docente
+***************
+*** 18,23 ****
+--- 19,25 ----
+  3 - Ver submissões de um projecto
+  4 - Ver alunos de disciplina leccionada
+  5 - Ver resultados de um inquérito
++ 6 - Remover aluno de Disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: Nome do projecto: Ver submissões de um projecto: Operação inválida: O projecto 'P1' não existe na disciplina 'D1'.
+  Portal do Docente
+***************
+*** 26,31 ****
+--- 28,34 ----
+  3 - Ver submissões de um projecto
+  4 - Ver alunos de disciplina leccionada
+  5 - Ver resultados de um inquérito
++ 6 - Remover aluno de Disciplina
+  0 - Sair
+  Escolha uma opção: Menu principal
+  1 - Abrir

@@ -1,0 +1,39 @@
+*** tests/A-10-83-M-ok.out	2018-12-07 12:29:57.000000000 +0000
+--- tests/A-10-83-M-ok.outhyp	2018-12-15 02:10:36.295094921 +0000
+***************
+*** 15,22 ****
+  3 - Portal Pessoal
+  5 - Portal do Estudante
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Resultados do inquérito do projecto P5 da disciplina D1
+! Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal
+--- 15,21 ----
+  3 - Portal Pessoal
+  5 - Portal do Estudante
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal
+***************
+*** 28,35 ****
+  3 - Ver resultados de inquérito
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: Nome do projecto: D1 - P5
+!  * Número de respostas: 3
+!  * Tempo médio (horas): 30
+  Portal do Estudante
+  1 - Entregar projecto
+  2 - Preencher inquérito
+--- 27,34 ----
+  3 - Ver resultados de inquérito
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: Nome do projecto: D1 - P5
+!  * Número de respostas: 1
+!  * Tempos médio (horas): 33
+  Portal do Estudante
+  1 - Entregar projecto
+  2 - Preencher inquérito

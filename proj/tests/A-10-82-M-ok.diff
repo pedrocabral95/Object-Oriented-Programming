@@ -1,0 +1,33 @@
+*** tests/A-10-82-M-ok.out	2018-12-07 18:33:32.000000000 +0000
+--- tests/A-10-82-M-ok.outhyp	2018-12-15 02:10:36.095094437 +0000
+***************
+*** 5,12 ****
+  5 - Portal do Estudante
+  6 - Portal do Delegado
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Resultados do inquérito do projecto P4 da disciplina D1
+! Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal
+--- 5,11 ----
+  5 - Portal do Estudante
+  6 - Portal do Delegado
+  0 - Sair
+! Escolha uma opção: Ficheiro a abrir: Menu principal
+  1 - Abrir
+  2 - Guardar
+  3 - Portal Pessoal
+***************
+*** 55,64 ****
+  6 - Mostrar inquéritos de uma disciplina
+  0 - Sair
+  Escolha uma opção: Nome da disciplina: D1 - P0 (por abrir)
+- D1 - P1 - 1 respostas - 1 horas
+- D1 - P2 (aberto)
+- D1 - P4 - 0 respostas - 0 horas
+- D1 - P5 - 3 respostas - 30 horas
+  Portal do Delegado
+  1 - Criar inquérito
+  2 - Cancelar inquérito
+--- 54,59 ----
